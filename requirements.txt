@@ -1,0 +1,4 @@
+pip install qtwidgets
+pip install PyQt5
+pip install QtPy
+pip install os-sys
